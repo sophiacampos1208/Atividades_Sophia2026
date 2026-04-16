@@ -1,0 +1,6 @@
+﻿Console.OutputEncoding = System.Text.Encoding.UTF8;
+Console.WriteLine("Cálculo de Área 🔺 triângulo equilátero");
+Console.Write("Digite o lado:");
+float.TryParse(Console.ReadLine().Replace(".",","), out float lado);
+float area = (float)(Math.Pow)(lado, 2f) * Math.Pow(3, 1 / 2f))/4;
+Console.WriteLine($"Área do 🔺= {Math.Round(area,2)}");

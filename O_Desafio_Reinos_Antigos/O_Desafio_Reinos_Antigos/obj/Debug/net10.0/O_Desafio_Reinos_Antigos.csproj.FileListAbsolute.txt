@@ -1,0 +1,14 @@
+C:\Users\DEV\source\repos\O_Desafio_Reinos_Antigos\O_Desafio_Reinos_Antigos\bin\Debug\net10.0\O_Desafio_Reinos_Antigos.exe
+C:\Users\DEV\source\repos\O_Desafio_Reinos_Antigos\O_Desafio_Reinos_Antigos\bin\Debug\net10.0\O_Desafio_Reinos_Antigos.deps.json
+C:\Users\DEV\source\repos\O_Desafio_Reinos_Antigos\O_Desafio_Reinos_Antigos\bin\Debug\net10.0\O_Desafio_Reinos_Antigos.runtimeconfig.json
+C:\Users\DEV\source\repos\O_Desafio_Reinos_Antigos\O_Desafio_Reinos_Antigos\bin\Debug\net10.0\O_Desafio_Reinos_Antigos.dll
+C:\Users\DEV\source\repos\O_Desafio_Reinos_Antigos\O_Desafio_Reinos_Antigos\bin\Debug\net10.0\O_Desafio_Reinos_Antigos.pdb
+C:\Users\DEV\source\repos\O_Desafio_Reinos_Antigos\O_Desafio_Reinos_Antigos\obj\Debug\net10.0\O_Desafio_Reinos_Antigos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEV\source\repos\O_Desafio_Reinos_Antigos\O_Desafio_Reinos_Antigos\obj\Debug\net10.0\O_Desafio_Reinos_Antigos.AssemblyInfoInputs.cache
+C:\Users\DEV\source\repos\O_Desafio_Reinos_Antigos\O_Desafio_Reinos_Antigos\obj\Debug\net10.0\O_Desafio_Reinos_Antigos.AssemblyInfo.cs
+C:\Users\DEV\source\repos\O_Desafio_Reinos_Antigos\O_Desafio_Reinos_Antigos\obj\Debug\net10.0\O_Desafio_Reinos_Antigos.csproj.CoreCompileInputs.cache
+C:\Users\DEV\source\repos\O_Desafio_Reinos_Antigos\O_Desafio_Reinos_Antigos\obj\Debug\net10.0\O_Desafio_Reinos_Antigos.dll
+C:\Users\DEV\source\repos\O_Desafio_Reinos_Antigos\O_Desafio_Reinos_Antigos\obj\Debug\net10.0\refint\O_Desafio_Reinos_Antigos.dll
+C:\Users\DEV\source\repos\O_Desafio_Reinos_Antigos\O_Desafio_Reinos_Antigos\obj\Debug\net10.0\O_Desafio_Reinos_Antigos.pdb
+C:\Users\DEV\source\repos\O_Desafio_Reinos_Antigos\O_Desafio_Reinos_Antigos\obj\Debug\net10.0\O_Desafio_Reinos_Antigos.genruntimeconfig.cache
+C:\Users\DEV\source\repos\O_Desafio_Reinos_Antigos\O_Desafio_Reinos_Antigos\obj\Debug\net10.0\ref\O_Desafio_Reinos_Antigos.dll

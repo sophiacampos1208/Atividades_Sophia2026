@@ -1,0 +1,14 @@
+C:\Users\DEV\source\repos\jogopar_impar\jogopar_impar\bin\Debug\net10.0\jogopar_impar.exe
+C:\Users\DEV\source\repos\jogopar_impar\jogopar_impar\bin\Debug\net10.0\jogopar_impar.deps.json
+C:\Users\DEV\source\repos\jogopar_impar\jogopar_impar\bin\Debug\net10.0\jogopar_impar.runtimeconfig.json
+C:\Users\DEV\source\repos\jogopar_impar\jogopar_impar\bin\Debug\net10.0\jogopar_impar.dll
+C:\Users\DEV\source\repos\jogopar_impar\jogopar_impar\bin\Debug\net10.0\jogopar_impar.pdb
+C:\Users\DEV\source\repos\jogopar_impar\jogopar_impar\obj\Debug\net10.0\jogopar_impar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEV\source\repos\jogopar_impar\jogopar_impar\obj\Debug\net10.0\jogopar_impar.AssemblyInfoInputs.cache
+C:\Users\DEV\source\repos\jogopar_impar\jogopar_impar\obj\Debug\net10.0\jogopar_impar.AssemblyInfo.cs
+C:\Users\DEV\source\repos\jogopar_impar\jogopar_impar\obj\Debug\net10.0\jogopar_impar.csproj.CoreCompileInputs.cache
+C:\Users\DEV\source\repos\jogopar_impar\jogopar_impar\obj\Debug\net10.0\jogopar_impar.dll
+C:\Users\DEV\source\repos\jogopar_impar\jogopar_impar\obj\Debug\net10.0\refint\jogopar_impar.dll
+C:\Users\DEV\source\repos\jogopar_impar\jogopar_impar\obj\Debug\net10.0\jogopar_impar.pdb
+C:\Users\DEV\source\repos\jogopar_impar\jogopar_impar\obj\Debug\net10.0\jogopar_impar.genruntimeconfig.cache
+C:\Users\DEV\source\repos\jogopar_impar\jogopar_impar\obj\Debug\net10.0\ref\jogopar_impar.dll

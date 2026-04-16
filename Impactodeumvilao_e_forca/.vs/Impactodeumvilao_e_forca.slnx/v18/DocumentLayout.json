@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DEV\\source\\repos\\Impactodeumvilao_e_forca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{588BC6B7-1A17-D199-5F76-A5D470EEBB58}|Impactodeumvilao_e_forca\\Impactodeumvilao_e_forca.csproj|c:\\users\\dev\\source\\repos\\impactodeumvilao_e_forca\\impactodeumvilao_e_forca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588BC6B7-1A17-D199-5F76-A5D470EEBB58}|Impactodeumvilao_e_forca\\Impactodeumvilao_e_forca.csproj|solutionrelative:impactodeumvilao_e_forca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DEV\\source\\repos\\Impactodeumvilao_e_forca\\Impactodeumvilao_e_forca\\Program.cs",
+              "RelativeDocumentMoniker": "Impactodeumvilao_e_forca\\Program.cs",
+              "ToolTip": "C:\\Users\\DEV\\source\\repos\\Impactodeumvilao_e_forca\\Impactodeumvilao_e_forca\\Program.cs",
+              "RelativeToolTip": "Impactodeumvilao_e_forca\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T17:20:04.049Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

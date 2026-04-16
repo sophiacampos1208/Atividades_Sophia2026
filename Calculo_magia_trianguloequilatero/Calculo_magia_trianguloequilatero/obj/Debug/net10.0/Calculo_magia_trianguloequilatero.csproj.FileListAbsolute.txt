@@ -1,0 +1,14 @@
+C:\Users\DEV\source\repos\Calculo_magia_trianguloequilatero\Calculo_magia_trianguloequilatero\bin\Debug\net10.0\Calculo_magia_trianguloequilatero.exe
+C:\Users\DEV\source\repos\Calculo_magia_trianguloequilatero\Calculo_magia_trianguloequilatero\bin\Debug\net10.0\Calculo_magia_trianguloequilatero.deps.json
+C:\Users\DEV\source\repos\Calculo_magia_trianguloequilatero\Calculo_magia_trianguloequilatero\bin\Debug\net10.0\Calculo_magia_trianguloequilatero.runtimeconfig.json
+C:\Users\DEV\source\repos\Calculo_magia_trianguloequilatero\Calculo_magia_trianguloequilatero\bin\Debug\net10.0\Calculo_magia_trianguloequilatero.dll
+C:\Users\DEV\source\repos\Calculo_magia_trianguloequilatero\Calculo_magia_trianguloequilatero\bin\Debug\net10.0\Calculo_magia_trianguloequilatero.pdb
+C:\Users\DEV\source\repos\Calculo_magia_trianguloequilatero\Calculo_magia_trianguloequilatero\obj\Debug\net10.0\Calculo_magia_trianguloequilatero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEV\source\repos\Calculo_magia_trianguloequilatero\Calculo_magia_trianguloequilatero\obj\Debug\net10.0\Calculo_magia_trianguloequilatero.AssemblyInfoInputs.cache
+C:\Users\DEV\source\repos\Calculo_magia_trianguloequilatero\Calculo_magia_trianguloequilatero\obj\Debug\net10.0\Calculo_magia_trianguloequilatero.AssemblyInfo.cs
+C:\Users\DEV\source\repos\Calculo_magia_trianguloequilatero\Calculo_magia_trianguloequilatero\obj\Debug\net10.0\Calculo_magia_trianguloequilatero.csproj.CoreCompileInputs.cache
+C:\Users\DEV\source\repos\Calculo_magia_trianguloequilatero\Calculo_magia_trianguloequilatero\obj\Debug\net10.0\Calculo_magia_trianguloequilatero.dll
+C:\Users\DEV\source\repos\Calculo_magia_trianguloequilatero\Calculo_magia_trianguloequilatero\obj\Debug\net10.0\refint\Calculo_magia_trianguloequilatero.dll
+C:\Users\DEV\source\repos\Calculo_magia_trianguloequilatero\Calculo_magia_trianguloequilatero\obj\Debug\net10.0\Calculo_magia_trianguloequilatero.pdb
+C:\Users\DEV\source\repos\Calculo_magia_trianguloequilatero\Calculo_magia_trianguloequilatero\obj\Debug\net10.0\Calculo_magia_trianguloequilatero.genruntimeconfig.cache
+C:\Users\DEV\source\repos\Calculo_magia_trianguloequilatero\Calculo_magia_trianguloequilatero\obj\Debug\net10.0\ref\Calculo_magia_trianguloequilatero.dll

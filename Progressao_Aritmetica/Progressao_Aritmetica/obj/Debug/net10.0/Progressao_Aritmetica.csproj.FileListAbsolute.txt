@@ -1,0 +1,15 @@
+C:\Users\DEV\source\repos\Progressao_Aritmetica\Progressao_Aritmetica\bin\Debug\net10.0\Progressao_Aritmetica.exe
+C:\Users\DEV\source\repos\Progressao_Aritmetica\Progressao_Aritmetica\bin\Debug\net10.0\Progressao_Aritmetica.deps.json
+C:\Users\DEV\source\repos\Progressao_Aritmetica\Progressao_Aritmetica\bin\Debug\net10.0\Progressao_Aritmetica.runtimeconfig.json
+C:\Users\DEV\source\repos\Progressao_Aritmetica\Progressao_Aritmetica\bin\Debug\net10.0\Progressao_Aritmetica.dll
+C:\Users\DEV\source\repos\Progressao_Aritmetica\Progressao_Aritmetica\bin\Debug\net10.0\Progressao_Aritmetica.pdb
+C:\Users\DEV\source\repos\Progressao_Aritmetica\Progressao_Aritmetica\obj\Debug\net10.0\Progressao_Aritmetica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEV\source\repos\Progressao_Aritmetica\Progressao_Aritmetica\obj\Debug\net10.0\Progressao_Aritmetica.AssemblyInfoInputs.cache
+C:\Users\DEV\source\repos\Progressao_Aritmetica\Progressao_Aritmetica\obj\Debug\net10.0\Progressao_Aritmetica.AssemblyInfo.cs
+C:\Users\DEV\source\repos\Progressao_Aritmetica\Progressao_Aritmetica\obj\Debug\net10.0\Progressao_Aritmetica.csproj.CoreCompileInputs.cache
+C:\Users\DEV\source\repos\Progressao_Aritmetica\Progressao_Aritmetica\obj\Debug\net10.0\Progressao_Aritmetica.sourcelink.json
+C:\Users\DEV\source\repos\Progressao_Aritmetica\Progressao_Aritmetica\obj\Debug\net10.0\Progressao_Aritmetica.dll
+C:\Users\DEV\source\repos\Progressao_Aritmetica\Progressao_Aritmetica\obj\Debug\net10.0\refint\Progressao_Aritmetica.dll
+C:\Users\DEV\source\repos\Progressao_Aritmetica\Progressao_Aritmetica\obj\Debug\net10.0\Progressao_Aritmetica.pdb
+C:\Users\DEV\source\repos\Progressao_Aritmetica\Progressao_Aritmetica\obj\Debug\net10.0\Progressao_Aritmetica.genruntimeconfig.cache
+C:\Users\DEV\source\repos\Progressao_Aritmetica\Progressao_Aritmetica\obj\Debug\net10.0\ref\Progressao_Aritmetica.dll

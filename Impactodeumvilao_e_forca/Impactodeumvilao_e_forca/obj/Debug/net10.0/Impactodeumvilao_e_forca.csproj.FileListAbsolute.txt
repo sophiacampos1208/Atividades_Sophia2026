@@ -1,0 +1,14 @@
+C:\Users\DEV\source\repos\Impactodeumvilao_e_forca\Impactodeumvilao_e_forca\bin\Debug\net10.0\Impactodeumvilao_e_forca.exe
+C:\Users\DEV\source\repos\Impactodeumvilao_e_forca\Impactodeumvilao_e_forca\bin\Debug\net10.0\Impactodeumvilao_e_forca.deps.json
+C:\Users\DEV\source\repos\Impactodeumvilao_e_forca\Impactodeumvilao_e_forca\bin\Debug\net10.0\Impactodeumvilao_e_forca.runtimeconfig.json
+C:\Users\DEV\source\repos\Impactodeumvilao_e_forca\Impactodeumvilao_e_forca\bin\Debug\net10.0\Impactodeumvilao_e_forca.dll
+C:\Users\DEV\source\repos\Impactodeumvilao_e_forca\Impactodeumvilao_e_forca\bin\Debug\net10.0\Impactodeumvilao_e_forca.pdb
+C:\Users\DEV\source\repos\Impactodeumvilao_e_forca\Impactodeumvilao_e_forca\obj\Debug\net10.0\Impactodeumvilao_e_forca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEV\source\repos\Impactodeumvilao_e_forca\Impactodeumvilao_e_forca\obj\Debug\net10.0\Impactodeumvilao_e_forca.AssemblyInfoInputs.cache
+C:\Users\DEV\source\repos\Impactodeumvilao_e_forca\Impactodeumvilao_e_forca\obj\Debug\net10.0\Impactodeumvilao_e_forca.AssemblyInfo.cs
+C:\Users\DEV\source\repos\Impactodeumvilao_e_forca\Impactodeumvilao_e_forca\obj\Debug\net10.0\Impactodeumvilao_e_forca.csproj.CoreCompileInputs.cache
+C:\Users\DEV\source\repos\Impactodeumvilao_e_forca\Impactodeumvilao_e_forca\obj\Debug\net10.0\Impactodeumvilao_e_forca.dll
+C:\Users\DEV\source\repos\Impactodeumvilao_e_forca\Impactodeumvilao_e_forca\obj\Debug\net10.0\refint\Impactodeumvilao_e_forca.dll
+C:\Users\DEV\source\repos\Impactodeumvilao_e_forca\Impactodeumvilao_e_forca\obj\Debug\net10.0\Impactodeumvilao_e_forca.pdb
+C:\Users\DEV\source\repos\Impactodeumvilao_e_forca\Impactodeumvilao_e_forca\obj\Debug\net10.0\Impactodeumvilao_e_forca.genruntimeconfig.cache
+C:\Users\DEV\source\repos\Impactodeumvilao_e_forca\Impactodeumvilao_e_forca\obj\Debug\net10.0\ref\Impactodeumvilao_e_forca.dll

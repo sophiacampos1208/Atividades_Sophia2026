@@ -1,0 +1,14 @@
+C:\Users\DEV\source\repos\O_Super_Conversor_de_Temperatura\O_Super_Conversor_de_Temperatura\bin\Debug\net10.0\O_Super_Conversor_de_Temperatura.exe
+C:\Users\DEV\source\repos\O_Super_Conversor_de_Temperatura\O_Super_Conversor_de_Temperatura\bin\Debug\net10.0\O_Super_Conversor_de_Temperatura.deps.json
+C:\Users\DEV\source\repos\O_Super_Conversor_de_Temperatura\O_Super_Conversor_de_Temperatura\bin\Debug\net10.0\O_Super_Conversor_de_Temperatura.runtimeconfig.json
+C:\Users\DEV\source\repos\O_Super_Conversor_de_Temperatura\O_Super_Conversor_de_Temperatura\bin\Debug\net10.0\O_Super_Conversor_de_Temperatura.dll
+C:\Users\DEV\source\repos\O_Super_Conversor_de_Temperatura\O_Super_Conversor_de_Temperatura\bin\Debug\net10.0\O_Super_Conversor_de_Temperatura.pdb
+C:\Users\DEV\source\repos\O_Super_Conversor_de_Temperatura\O_Super_Conversor_de_Temperatura\obj\Debug\net10.0\O_Super_Conversor_de_Temperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEV\source\repos\O_Super_Conversor_de_Temperatura\O_Super_Conversor_de_Temperatura\obj\Debug\net10.0\O_Super_Conversor_de_Temperatura.AssemblyInfoInputs.cache
+C:\Users\DEV\source\repos\O_Super_Conversor_de_Temperatura\O_Super_Conversor_de_Temperatura\obj\Debug\net10.0\O_Super_Conversor_de_Temperatura.AssemblyInfo.cs
+C:\Users\DEV\source\repos\O_Super_Conversor_de_Temperatura\O_Super_Conversor_de_Temperatura\obj\Debug\net10.0\O_Super_Conversor_de_Temperatura.csproj.CoreCompileInputs.cache
+C:\Users\DEV\source\repos\O_Super_Conversor_de_Temperatura\O_Super_Conversor_de_Temperatura\obj\Debug\net10.0\O_Super_Conversor_de_Temperatura.dll
+C:\Users\DEV\source\repos\O_Super_Conversor_de_Temperatura\O_Super_Conversor_de_Temperatura\obj\Debug\net10.0\refint\O_Super_Conversor_de_Temperatura.dll
+C:\Users\DEV\source\repos\O_Super_Conversor_de_Temperatura\O_Super_Conversor_de_Temperatura\obj\Debug\net10.0\O_Super_Conversor_de_Temperatura.pdb
+C:\Users\DEV\source\repos\O_Super_Conversor_de_Temperatura\O_Super_Conversor_de_Temperatura\obj\Debug\net10.0\O_Super_Conversor_de_Temperatura.genruntimeconfig.cache
+C:\Users\DEV\source\repos\O_Super_Conversor_de_Temperatura\O_Super_Conversor_de_Temperatura\obj\Debug\net10.0\ref\O_Super_Conversor_de_Temperatura.dll

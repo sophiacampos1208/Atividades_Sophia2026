@@ -1,0 +1,14 @@
+C:\Users\DEV\source\repos\Sistema de Atributos de um Personagem de RPG\Sistema de Atributos de um Personagem de RPG\obj\Debug\net10.0\Sistema de Atributos de um Personagem de RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEV\source\repos\Sistema de Atributos de um Personagem de RPG\Sistema de Atributos de um Personagem de RPG\obj\Debug\net10.0\Sistema de Atributos de um Personagem de RPG.AssemblyInfoInputs.cache
+C:\Users\DEV\source\repos\Sistema de Atributos de um Personagem de RPG\Sistema de Atributos de um Personagem de RPG\obj\Debug\net10.0\Sistema de Atributos de um Personagem de RPG.AssemblyInfo.cs
+C:\Users\DEV\source\repos\Sistema de Atributos de um Personagem de RPG\Sistema de Atributos de um Personagem de RPG\obj\Debug\net10.0\Sistema de Atributos de um Personagem de RPG.csproj.CoreCompileInputs.cache
+C:\Users\DEV\source\repos\Sistema de Atributos de um Personagem de RPG\Sistema de Atributos de um Personagem de RPG\bin\Debug\net10.0\Sistema de Atributos de um Personagem de RPG.exe
+C:\Users\DEV\source\repos\Sistema de Atributos de um Personagem de RPG\Sistema de Atributos de um Personagem de RPG\bin\Debug\net10.0\Sistema de Atributos de um Personagem de RPG.deps.json
+C:\Users\DEV\source\repos\Sistema de Atributos de um Personagem de RPG\Sistema de Atributos de um Personagem de RPG\bin\Debug\net10.0\Sistema de Atributos de um Personagem de RPG.runtimeconfig.json
+C:\Users\DEV\source\repos\Sistema de Atributos de um Personagem de RPG\Sistema de Atributos de um Personagem de RPG\bin\Debug\net10.0\Sistema de Atributos de um Personagem de RPG.dll
+C:\Users\DEV\source\repos\Sistema de Atributos de um Personagem de RPG\Sistema de Atributos de um Personagem de RPG\bin\Debug\net10.0\Sistema de Atributos de um Personagem de RPG.pdb
+C:\Users\DEV\source\repos\Sistema de Atributos de um Personagem de RPG\Sistema de Atributos de um Personagem de RPG\obj\Debug\net10.0\Sistema de Atributos de um Personagem de RPG.dll
+C:\Users\DEV\source\repos\Sistema de Atributos de um Personagem de RPG\Sistema de Atributos de um Personagem de RPG\obj\Debug\net10.0\refint\Sistema de Atributos de um Personagem de RPG.dll
+C:\Users\DEV\source\repos\Sistema de Atributos de um Personagem de RPG\Sistema de Atributos de um Personagem de RPG\obj\Debug\net10.0\Sistema de Atributos de um Personagem de RPG.pdb
+C:\Users\DEV\source\repos\Sistema de Atributos de um Personagem de RPG\Sistema de Atributos de um Personagem de RPG\obj\Debug\net10.0\Sistema de Atributos de um Personagem de RPG.genruntimeconfig.cache
+C:\Users\DEV\source\repos\Sistema de Atributos de um Personagem de RPG\Sistema de Atributos de um Personagem de RPG\obj\Debug\net10.0\ref\Sistema de Atributos de um Personagem de RPG.dll

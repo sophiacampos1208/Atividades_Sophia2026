@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Impactodeumvilao_e_forca/1.0.0": {
+        "runtime": {
+          "Impactodeumvilao_e_forca.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Impactodeumvilao_e_forca/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

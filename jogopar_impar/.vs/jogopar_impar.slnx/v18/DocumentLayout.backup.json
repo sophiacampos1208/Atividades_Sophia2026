@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DEV\\source\\repos\\jogopar_impar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6AD75D88-F35A-4103-B92E-2D20DF018387}|jogopar_impar\\jogopar_impar.csproj|c:\\users\\dev\\source\\repos\\jogopar_impar\\jogopar_impar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AD75D88-F35A-4103-B92E-2D20DF018387}|jogopar_impar\\jogopar_impar.csproj|solutionrelative:jogopar_impar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DEV\\source\\repos\\jogopar_impar\\jogopar_impar\\Program.cs",
+              "RelativeDocumentMoniker": "jogopar_impar\\Program.cs",
+              "ToolTip": "C:\\Users\\DEV\\source\\repos\\jogopar_impar\\jogopar_impar\\Program.cs",
+              "RelativeToolTip": "jogopar_impar\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T11:45:07.946Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

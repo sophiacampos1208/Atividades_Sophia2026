@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DEV\\source\\repos\\O_Desafio_Reinos_Antigos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84D9CF10-BAFC-6A21-2C1C-1ED8E08ADE05}|O_Desafio_Reinos_Antigos\\O_Desafio_Reinos_Antigos.csproj|c:\\users\\dev\\source\\repos\\o_desafio_reinos_antigos\\o_desafio_reinos_antigos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D9CF10-BAFC-6A21-2C1C-1ED8E08ADE05}|O_Desafio_Reinos_Antigos\\O_Desafio_Reinos_Antigos.csproj|solutionrelative:o_desafio_reinos_antigos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DEV\\source\\repos\\O_Desafio_Reinos_Antigos\\O_Desafio_Reinos_Antigos\\Program.cs",
+              "RelativeDocumentMoniker": "O_Desafio_Reinos_Antigos\\Program.cs",
+              "ToolTip": "C:\\Users\\DEV\\source\\repos\\O_Desafio_Reinos_Antigos\\O_Desafio_Reinos_Antigos\\Program.cs",
+              "RelativeToolTip": "O_Desafio_Reinos_Antigos\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T18:28:30.748Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

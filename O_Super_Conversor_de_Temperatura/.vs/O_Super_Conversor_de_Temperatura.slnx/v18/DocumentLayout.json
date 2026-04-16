@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DEV\\source\\repos\\O_Super_Conversor_de_Temperatura\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{330D2FA5-7029-431B-A803-680CFEFA3C45}|O_Super_Conversor_de_Temperatura\\O_Super_Conversor_de_Temperatura.csproj|c:\\users\\dev\\source\\repos\\o_super_conversor_de_temperatura\\o_super_conversor_de_temperatura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330D2FA5-7029-431B-A803-680CFEFA3C45}|O_Super_Conversor_de_Temperatura\\O_Super_Conversor_de_Temperatura.csproj|solutionrelative:o_super_conversor_de_temperatura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DEV\\source\\repos\\O_Super_Conversor_de_Temperatura\\O_Super_Conversor_de_Temperatura\\Program.cs",
+              "RelativeDocumentMoniker": "O_Super_Conversor_de_Temperatura\\Program.cs",
+              "ToolTip": "C:\\Users\\DEV\\source\\repos\\O_Super_Conversor_de_Temperatura\\O_Super_Conversor_de_Temperatura\\Program.cs",
+              "RelativeToolTip": "O_Super_Conversor_de_Temperatura\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T18:45:34.453Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

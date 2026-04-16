@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Calculo_magia_trianguloequilatero/1.0.0": {
+        "runtime": {
+          "Calculo_magia_trianguloequilatero.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calculo_magia_trianguloequilatero/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

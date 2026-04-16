@@ -1,0 +1,14 @@
+C:\Users\DEV\source\repos\CáculoDeMédia\CáculoDeMédia\bin\Debug\net10.0\CáculoDeMédia.exe
+C:\Users\DEV\source\repos\CáculoDeMédia\CáculoDeMédia\bin\Debug\net10.0\CáculoDeMédia.deps.json
+C:\Users\DEV\source\repos\CáculoDeMédia\CáculoDeMédia\bin\Debug\net10.0\CáculoDeMédia.runtimeconfig.json
+C:\Users\DEV\source\repos\CáculoDeMédia\CáculoDeMédia\bin\Debug\net10.0\CáculoDeMédia.dll
+C:\Users\DEV\source\repos\CáculoDeMédia\CáculoDeMédia\bin\Debug\net10.0\CáculoDeMédia.pdb
+C:\Users\DEV\source\repos\CáculoDeMédia\CáculoDeMédia\obj\Debug\net10.0\CáculoDeMédia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEV\source\repos\CáculoDeMédia\CáculoDeMédia\obj\Debug\net10.0\CáculoDeMédia.AssemblyInfoInputs.cache
+C:\Users\DEV\source\repos\CáculoDeMédia\CáculoDeMédia\obj\Debug\net10.0\CáculoDeMédia.AssemblyInfo.cs
+C:\Users\DEV\source\repos\CáculoDeMédia\CáculoDeMédia\obj\Debug\net10.0\CáculoDeMédia.csproj.CoreCompileInputs.cache
+C:\Users\DEV\source\repos\CáculoDeMédia\CáculoDeMédia\obj\Debug\net10.0\CáculoDeMédia.dll
+C:\Users\DEV\source\repos\CáculoDeMédia\CáculoDeMédia\obj\Debug\net10.0\refint\CáculoDeMédia.dll
+C:\Users\DEV\source\repos\CáculoDeMédia\CáculoDeMédia\obj\Debug\net10.0\CáculoDeMédia.pdb
+C:\Users\DEV\source\repos\CáculoDeMédia\CáculoDeMédia\obj\Debug\net10.0\CáculoDeMédia.genruntimeconfig.cache
+C:\Users\DEV\source\repos\CáculoDeMédia\CáculoDeMédia\obj\Debug\net10.0\ref\CáculoDeMédia.dll

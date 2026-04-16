@@ -1,0 +1,14 @@
+C:\Users\DEV\source\repos\jogo de adedonha\jogo de adedonha\bin\Debug\net10.0\jogo de adedonha.exe
+C:\Users\DEV\source\repos\jogo de adedonha\jogo de adedonha\bin\Debug\net10.0\jogo de adedonha.deps.json
+C:\Users\DEV\source\repos\jogo de adedonha\jogo de adedonha\bin\Debug\net10.0\jogo de adedonha.runtimeconfig.json
+C:\Users\DEV\source\repos\jogo de adedonha\jogo de adedonha\bin\Debug\net10.0\jogo de adedonha.dll
+C:\Users\DEV\source\repos\jogo de adedonha\jogo de adedonha\bin\Debug\net10.0\jogo de adedonha.pdb
+C:\Users\DEV\source\repos\jogo de adedonha\jogo de adedonha\obj\Debug\net10.0\jogo de adedonha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEV\source\repos\jogo de adedonha\jogo de adedonha\obj\Debug\net10.0\jogo de adedonha.AssemblyInfoInputs.cache
+C:\Users\DEV\source\repos\jogo de adedonha\jogo de adedonha\obj\Debug\net10.0\jogo de adedonha.AssemblyInfo.cs
+C:\Users\DEV\source\repos\jogo de adedonha\jogo de adedonha\obj\Debug\net10.0\jogo de adedonha.csproj.CoreCompileInputs.cache
+C:\Users\DEV\source\repos\jogo de adedonha\jogo de adedonha\obj\Debug\net10.0\jogo de adedonha.dll
+C:\Users\DEV\source\repos\jogo de adedonha\jogo de adedonha\obj\Debug\net10.0\refint\jogo de adedonha.dll
+C:\Users\DEV\source\repos\jogo de adedonha\jogo de adedonha\obj\Debug\net10.0\jogo de adedonha.pdb
+C:\Users\DEV\source\repos\jogo de adedonha\jogo de adedonha\obj\Debug\net10.0\jogo de adedonha.genruntimeconfig.cache
+C:\Users\DEV\source\repos\jogo de adedonha\jogo de adedonha\obj\Debug\net10.0\ref\jogo de adedonha.dll

@@ -1,0 +1,14 @@
+C:\Users\DEV\source\repos\Tabuada_do_1ao10\Tabuada_do_1ao10\bin\Debug\net10.0\Tabuada_do_1ao10.exe
+C:\Users\DEV\source\repos\Tabuada_do_1ao10\Tabuada_do_1ao10\bin\Debug\net10.0\Tabuada_do_1ao10.deps.json
+C:\Users\DEV\source\repos\Tabuada_do_1ao10\Tabuada_do_1ao10\bin\Debug\net10.0\Tabuada_do_1ao10.runtimeconfig.json
+C:\Users\DEV\source\repos\Tabuada_do_1ao10\Tabuada_do_1ao10\bin\Debug\net10.0\Tabuada_do_1ao10.dll
+C:\Users\DEV\source\repos\Tabuada_do_1ao10\Tabuada_do_1ao10\bin\Debug\net10.0\Tabuada_do_1ao10.pdb
+C:\Users\DEV\source\repos\Tabuada_do_1ao10\Tabuada_do_1ao10\obj\Debug\net10.0\Tabuada_do_1ao10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEV\source\repos\Tabuada_do_1ao10\Tabuada_do_1ao10\obj\Debug\net10.0\Tabuada_do_1ao10.AssemblyInfoInputs.cache
+C:\Users\DEV\source\repos\Tabuada_do_1ao10\Tabuada_do_1ao10\obj\Debug\net10.0\Tabuada_do_1ao10.AssemblyInfo.cs
+C:\Users\DEV\source\repos\Tabuada_do_1ao10\Tabuada_do_1ao10\obj\Debug\net10.0\Tabuada_do_1ao10.csproj.CoreCompileInputs.cache
+C:\Users\DEV\source\repos\Tabuada_do_1ao10\Tabuada_do_1ao10\obj\Debug\net10.0\Tabuada_do_1ao10.dll
+C:\Users\DEV\source\repos\Tabuada_do_1ao10\Tabuada_do_1ao10\obj\Debug\net10.0\refint\Tabuada_do_1ao10.dll
+C:\Users\DEV\source\repos\Tabuada_do_1ao10\Tabuada_do_1ao10\obj\Debug\net10.0\Tabuada_do_1ao10.pdb
+C:\Users\DEV\source\repos\Tabuada_do_1ao10\Tabuada_do_1ao10\obj\Debug\net10.0\Tabuada_do_1ao10.genruntimeconfig.cache
+C:\Users\DEV\source\repos\Tabuada_do_1ao10\Tabuada_do_1ao10\obj\Debug\net10.0\ref\Tabuada_do_1ao10.dll

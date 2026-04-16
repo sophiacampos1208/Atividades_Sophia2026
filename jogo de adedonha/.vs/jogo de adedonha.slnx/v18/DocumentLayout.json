@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DEV\\source\\repos\\jogo de adedonha\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD600F9-8795-1092-F9A6-80619310A3BB}|jogo de adedonha\\jogo de adedonha.csproj|c:\\users\\dev\\source\\repos\\jogo de adedonha\\jogo de adedonha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DD600F9-8795-1092-F9A6-80619310A3BB}|jogo de adedonha\\jogo de adedonha.csproj|solutionrelative:jogo de adedonha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DEV\\source\\repos\\jogo de adedonha\\jogo de adedonha\\Program.cs",
+              "RelativeDocumentMoniker": "jogo de adedonha\\Program.cs",
+              "ToolTip": "C:\\Users\\DEV\\source\\repos\\jogo de adedonha\\jogo de adedonha\\Program.cs",
+              "RelativeToolTip": "jogo de adedonha\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T13:52:22.95Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
